@@ -1,1 +1,2 @@
 # sudokuSolver
+A python sudoku solver. It takes an image containing a sudoku. It finds the sudoku using image processing via openCV library in Python. Then it uses a convolutional neural network (CNN) model to detect and identify the numbers from the images (using digit recognition). After that it solves the sudoku using backtracking technique. And it displays the solved sudoku as an image and it also displays the solution by overlaying it with the original image.
