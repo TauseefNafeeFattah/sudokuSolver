@@ -9,7 +9,7 @@ Then to run the main program run this command- **python SudokuSolverMain.py**
 ### To create the CNN model.
 The CNN model is already created and uploaded in this repository.  
 But if you want to create the model then run the command- **python modelTraining.py** and this will successfully create the CNN model.
-#### Final result
+## Final result
 final result of running the main program is shown below(this is the image 2 in the test_images folder)  
 Input is  
 
