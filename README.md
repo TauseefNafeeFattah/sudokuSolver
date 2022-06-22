@@ -5,7 +5,7 @@ To run the program create/go (by using cd) to a directory of your choice in the 
 Then create a virtual environment using **python -m venv env** (Also you can take a look at this [link](https://docs.python.org/3/library/venv.html) to see the oficial documentation on how to create a virtual environment)  
 Then activate the virtual environment by writing **pathToVirtualEnvironment\env\Scripts\activate.bat**  
 Then install the necessary dependencies using **pip install -r /path/to/requirements.txt** command  
-Then to run the program run this command- **python SudokuSolverMain.py**  
+Then to run the main program run this command- **python SudokuSolverMain.py**  
 ### To create the CNN model.
 The CNN model is already created and uploaded in this repository.  
 But if you want to create the model then run the command- **python modelTraining.py** and this will successfully create the CNN model.
